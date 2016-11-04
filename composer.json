@@ -11,5 +11,8 @@
     	"psr-4": {
     		"Ptsilva\\Document\\Core\\": "src"
     	}
+    },
+    "require": {
+    	"guzzlehttp/streams": "~3.0"
     }
 }
