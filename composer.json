@@ -6,5 +6,10 @@
             "name": "Paulo Silva",
             "email": "05.paulotarso@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+    	"psr-4": {
+    		"Ptsilva\\Document\\Core\\": "src"
+    	}
+    }
 }
